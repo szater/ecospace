@@ -1,4 +1,4 @@
-## ecospace: R Package for Simulating Community Assembly and Ecological Diversification Using Ecospace Frameworks
+## Ecospace: R Package for Simulating Community Assembly and Ecological Diversification Using Ecospace Frameworks
 
 ecospace is an R package that implements stochastic simulations of community 
 assembly (ecological diversification) using customizable ecospace frameworks 
